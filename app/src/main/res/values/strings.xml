@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Alert Dialog</string>
+
+    <string name="success">Success</string>
+    <string name="warning">Warning</string>
+    <string name="error">Error</string>
+    <string name="success_title">This is a success title</string>
+    <string name="warning_title">This is a warning title</string>
+    <string name="error_title">This is a error title</string>
+    <string name="dummy_text">Loren Ipsum is a simple dummy text of the printing and type setting industry</string>
+    <string name="okay">okay</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
 </resources>
